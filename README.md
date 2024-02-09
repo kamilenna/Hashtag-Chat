@@ -17,6 +17,14 @@
  Ao longo do projeto foi trabalhado criação de um projeto utilizando nodeJS no back-end do projeto prara criar um servidor e utiliza a biblioteca socket.io que permite a comunicação em tempo real entre clientes e servidores da Web.
 
 <h3><strong><a href="" target="_blank">Link do projeto</a></strong></h3>
+<hr/>
+
+<h3>📌Outros projetos desenvolvidos no Intensivão JavaScript</h3>
+<ul>
+    <li><a href="https://github.com/kamilenna/Pagina-Apple-Watch" target="_blank">Projeto 2</a></li>
+    <li><a href="https://github.com/kamilenna/Cardapio-digital---hashtaurante" target="_blank">Projeto 3</a></li>
+    <li><a href="https://github.com/kamilenna/Hashtag-Chat" target="_blank">Projeto 4</a></li>
+</ul>
 
 <br>
 
