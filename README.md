@@ -21,9 +21,9 @@
 
 <h3>📌Outros projetos desenvolvidos no Intensivão JavaScript</h3>
 <ul>
+    <li><a href="https://github.com/kamilenna/Hashtag--Books" target="_blank">Projeto 1</a></li>
     <li><a href="https://github.com/kamilenna/Pagina-Apple-Watch" target="_blank">Projeto 2</a></li>
     <li><a href="https://github.com/kamilenna/Cardapio-digital---hashtaurante" target="_blank">Projeto 3</a></li>
-    <li><a href="https://github.com/kamilenna/Hashtag-Chat" target="_blank">Projeto 4</a></li>
 </ul>
 
 <br>
